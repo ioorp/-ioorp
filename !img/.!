@@ -9,3 +9,5 @@ header = <github.io.ioorp;-fork"github.com";!+>!
 direktori="github.io.ioorp"
 
 }
+header : /github.io.ioorp/!img/.!
+lisensi teks "idna" + catatan ;
