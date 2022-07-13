@@ -1,0 +1,8 @@
+code ;
+teks = text ;
+url = url = domain ;
+repo + reposirory ;
+header "github.io.ioorp" type"!" ;
+
+-efek:"repository:repo".transport"fork:url:github.com"
+header-url:repository:/github.com/ ;
