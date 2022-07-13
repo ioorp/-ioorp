@@ -1,0 +1,11 @@
+ioorp "transport" tipe "domain"
+
+catatan "tanpa membuat efek" -fork:github.com ;
+catatan{
+
+header = ! ;
+header = <github.io.ioorp;-fork"github.com";!+>!
+!ioorp=header:github.io.ioorp
+direktori="github.io.ioorp"
+
+}
