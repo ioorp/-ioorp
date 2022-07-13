@@ -1,1 +1,11 @@
+/github.io.ioorp "github.io.ioorp" ;
+!+import {!import} ++ ;
+++url ;
+++setting ;
 
+!import url {
+
+https://wikipedia.org/w/teks ;
+https://wikipedia.org/w/url ;
+
+}
